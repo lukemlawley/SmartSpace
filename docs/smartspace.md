@@ -1,0 +1,4 @@
+ 
+# smartspace module
+
+::: smartspace.smartspace
